@@ -22,7 +22,7 @@ const getAllProducts = async (req, resp) => {
         apiData = apiData.sort(sortFix);
     }
 
-    // console.log(queryObject);
+    // console.log(queryObject); //
 
     //This is the select funcationality which fild provide by the user
     if (select) {
