@@ -1,0 +1,243 @@
+[
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone1",
+        "price": 1243,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone2",
+        "price": 1243,
+        "featured": false,
+        "company": "Samsung"
+    },
+    {
+        "name": "iphone3",
+        "price": 1243,
+        "featured": false,
+        "company": "dell"
+    },
+    {
+        "name": "iphone4",
+        "price": 1243,
+        "featured": false,
+        "company": "mi"
+    },
+    {
+        "name": "iphone5",
+        "price": 1243,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone6",
+        "price": 1243,
+        "featured": false,
+        "company": "Samsung"
+    },
+    {
+        "name": "iphone7",
+        "price": 1243,
+        "featured": false,
+        "company": "dell"
+    },
+    {
+        "name": "iphone8",
+        "price": 1243,
+        "featured": false,
+        "company": "mi"
+    },
+    {
+        "name": "iphone9",
+        "price": 1243,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 1243,
+        "featured": false,
+        "company": "Samsung"
+    },    
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "samsung"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "apple"
+    },
+    {
+        "name": "iphone10",
+        "price": 123,
+        "featured": true,
+        "company": "samsung"
+    },
+    {
+        "name": "galaxy20",
+        "price": 456,
+        "featured": false,
+        "company": "samsung"
+    }
+      
+]
